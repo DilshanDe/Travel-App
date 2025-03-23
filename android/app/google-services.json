@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721683955802",
+    "project_id": "traveltest-app",
+    "storage_bucket": "traveltest-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721683955802:android:88269fec8822f84fc9d863",
+        "android_client_info": {
+          "package_name": "com.example.traveltest_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEtsKE2IuSkWLNp-PlIxhAVWoUHJVcWf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
